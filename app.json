@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CHATADDA",
+    "slug": "CHATADDA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/chatAddaicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yashukhera5.CHATADDA"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b857d9f4-c45a-494e-92a3-34f90328f288"
+      }
+    }
+  }
+}
