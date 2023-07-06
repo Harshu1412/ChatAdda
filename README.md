@@ -17,3 +17,6 @@ ChatAdda is a cutting-edge chat application that revolutionizes the way people c
 
 
  Great app starts
+
+
+ This App is created by HarshVardhan khera
